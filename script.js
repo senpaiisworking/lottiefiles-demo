@@ -3,5 +3,5 @@ var animation = bodymovin.loadAnimation({
     renderer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'https://assets9.lottiefiles.com/packages/lf20_5n8yfkac.json' // lottie file path
+    path: 'https://assets10.lottiefiles.com/packages/lf20_ifbrzecd.json' // lottie file path
   })
